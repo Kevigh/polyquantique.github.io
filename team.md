@@ -93,6 +93,13 @@ Postdoctoral Associate, [Engineering Physics](https://www.polymtl.ca/phys/), [Po
 Graduated in 2024 with a PhD in Physics from Universidade Federal do ABC. \
 Enjoys music, films, coffee, and roaming through Wikipedia.
 
+**Kevin Giraldo Hincapié**.
+Intern, Polytechnique Montréal, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca). \
+Undergraduate Physics student at [Universidad del Valle][https://www.univalle.edu.co]. \
+Interested in many-body physics and strongly correlated systems. \
+Enjoys music, films, coffee, and roaming through Wikipedia.
+Enjoys playing soccer, playing video games, and trying new dishes from other countries.
+
 ### Ancien.nes polyquanticien.nes
 * [Yuan Yao](https://scholar.google.ca/citations?hl=en&user=bJ2eOxIAAAAJ) was a visiting student completing [her Ph.D.](https://theses.fr/2023IPPAT005) at [Télécom Paris](https://www.telecom-paris.fr) in 2022 → Quantum Architecture Scientist at Xanadu Quantum Technologies → BoYa postdoctoral fellow at [Peking U](https://english.pku.edu.cn/).
 * Jaehee Kim was a Qcenter fellow in 2023 → Ph.D. student at [Sungkyunkwan U](https://www.skku.edu/eng/).
